@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Adam Brown - Web Developer]]></title>
+  <link href="http://avb.github.io/atom.xml" rel="self"/>
+  <link href="http://avb.github.io/"/>
+  <updated>2014-01-07T23:56:21-06:00</updated>
+  <id>http://avb.github.io/</id>
+  <author>
+    <name><![CDATA[Adam Brown]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
